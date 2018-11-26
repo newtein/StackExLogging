@@ -1,0 +1,7 @@
+Java	Log4J, SLF4J, tinylog, logback, apache commons logging, google-cloud-java, commons-logging, jboss-logging, java-util-logging, syslog4j, otroslogviewer, log4j, log4j2, log4jdbc, slf4j, slf4j, jul-to-slf4j, hyperloglog.java, java.util.logging
+C	Log4C, sclog4c, syslog, zlog,  zf_log, log4c
+C++	 glog,  log4cplus, pantheios, boost::log, easylogging++, log4cxx, boost, boost-log, boost-logger, boost.log, spdlog, log4cpp
+Python	pygogo, Logbook, google-cloud-python, django-logging, logger-python, hyperloglog.python, unified-log, auth.log, graylog, graylog2
+C#	log4net, NLog, Enterprise Library, Common.Logging, log4net-configuration, log4net-appender, log4net-filters
+JavaScript	js-logging, Log4js, log4javascript, JSNLog, Node-Loggly, Bunyan, Winston, Morgan, Angular-Loggly, loglevel, jsnlog, log-level, logsene-js, node-nslog, truncate-logs-js 
+android	xlog, timber, hugo, frodo, LogLifeCycle, Debugoverlay, Lynx, Androlog, SLF4J-Android, Android Logger, Log4JAndroid, Log4J-Android, logback-android, kotlin-logging, hugo-logging, nslogger, android-logcat, slf4j-android, timber-android, logcat, logsene-android

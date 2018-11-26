@@ -1,0 +1,12 @@
+10,0,0.031*"log" + 0.020*"android" + 0.012*"app" + 0.011*"file" + 0.010*"logcat" + 0.010*"device" + 0.010*"application" + 0.008*"would" + 0.007*"using" + 0.007*"like"
+10,1,0.011*"document" + 0.011*"eicing" + 0.009*"48905353" + 0.009*"esyncprocessorqueue27593" + 0.009*"phone" + 0.008*"delay" + 0.008*"175147455" + 0.007*"dbsthal1756" + 0.007*"file" + 0.007*"log"
+10,2,0.014*"delay" + 0.011*"handle" + 0.010*"ltbstgt" + 0.009*"set" + 0.009*"log" + 0.007*"dbsthal1756" + 0.007*"ibsthal1756" + 0.006*"android" + 0.006*"time" + 0.006*"setdelay"
+10,3,0.021*"log" + 0.013*"android" + 0.012*"phone" + 0.011*"logcat" + 0.007*"device" + 0.007*"know" + 0.007*"apps" + 0.007*"file" + 0.007*"app" + 0.006*"using"
+10,4,0.013*"file" + 0.010*"log" + 0.010*"logcat" + 0.006*"1305" + 0.006*"phone" + 0.006*"cant" + 0.005*"ejavabinder" + 0.005*"device" + 0.005*"system" + 0.005*"message"
+10,5,0.014*"phone" + 0.014*"log" + 0.011*"android" + 0.007*"wifi" + 0.006*"rmtstorage" + 0.006*"logcat" + 0.005*"file" + 0.005*"device" + 0.005*"im" + 0.004*"using"
+10,6,0.012*"log" + 0.010*"get" + 0.010*"android" + 0.008*"way" + 0.008*"phone" + 0.006*"apps" + 0.006*"time" + 0.006*"pi" + 0.005*"see" + 0.005*"read"
+10,7,0.023*"delay" + 0.015*"dbsthal1756" + 0.014*"ltbstgt" + 0.013*"ltbosch" + 0.012*"handle" + 0.012*"bmc150" + 0.012*"set" + 0.012*"setdelay" + 0.010*"ibsthal1756" + 0.007*"sensorgt"
+10,8,0.014*"48905353" + 0.012*"document" + 0.012*"eicing" + 0.011*"app" + 0.011*"delay" + 0.008*"write" + 0.008*"ltbstgt" + 0.008*"logcat" + 0.007*"handle" + 0.006*"android"
+10,9,0.012*"esyncprocessorqueue27593" + 0.012*"175147455" + 0.010*"application" + 0.010*"app" + 0.007*"phone" + 0.007*"android" + 0.005*"would" + 0.005*"get" + 0.005*"logcat" + 0.004*"one"
+
+

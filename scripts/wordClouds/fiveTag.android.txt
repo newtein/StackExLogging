@@ -1,0 +1,1 @@
+root-access,logging,terminal,touchscreen,logging,logging,data-connection,logging,cellular-radio,data-monitoring,
