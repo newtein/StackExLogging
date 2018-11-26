@@ -11,7 +11,7 @@ File named logging - Sheet4.tsv contains Programming language specific logging t
 ## Dataset
 'data' folder consists of Ids of logging questions (filtered by using above logging tags) across six websites. These questions can be accessed by
 <pre> <b>
-                          https://<website>/q/<question-id>
+                          https://&ltwebsite&gt/q/&ltquestion-id&gt
                           For example: https://stackoverflow.com/q/16309435
 </b> </pre>
 
